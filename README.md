@@ -18,3 +18,26 @@ What is PUBLIC GAME?
 - It emphasizes governance and the game mechanism is closely tied to governability. Users determine the direction of ecosystem development through quadratic voting within the application.
 Value introduction: Anyone can introduce value in some form.
 
+![](./images/3.png)
+
+The Creativity from Bottom to Top
+
+We fully agree with the vision of Dom Hoffmann, the creator of LOOT, and have drawn much inspiration from it. Value should not be solely attributed to individuals; it requires the power and consensus of the community from the bottom up. If LOOT can be likened to seeds, then we hope to plant all these seeds in one piece of land.
+
+We will not limit any imagination and welcome the contribution of all developers to shape the value of these resources. This aligns more with the philosophy of CHE, allowing for free development and breakthroughs in technological challenges. In the CHEVERSE, nothing exists without value.
+
+![](./images/4.png)
+Character
+
+All characters will be established and imported from CHECELL into CHE.WORLD.
+Players are free to choose their identities in CHE.WORLD, whether they want to be merchants or adventurers. We hope that players can do what they want and become who they want to be.
+
+![](./images/2.png)
+
+Attributes
+
+Leadership: Controls the combat effectiveness of troops.
+Creativity: Controls the resource limit and output efficiency.
+Business Acumen: Controls the tax reduction range during trade.
+Social Skills: Controls the maximum distance for a single voyage and the maximum number of allies.
+Dominance Value: Each city has a different dominance value, which is determined by land ownership, military strength, and the percentage of pledged currency."
